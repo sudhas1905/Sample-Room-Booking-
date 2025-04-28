@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\",
+  "WorkspaceRootPath": "C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|c:\\users\\sudhakar\\onedrive\\desktop\\c#\\hotelmanegment\\hotelmanegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|c:\\users\\sudhakar\\source\\repos\\sudhas1905\\sample-room-booking-\\hotelmanegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|solutionrelative:hotelmanegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\Hotelmanegment\\Hotelmanegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\Hotelmanegment\\Hotelmanegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9E65CD69-8845-4B8B-A522-2769A7748B97}|Hotelmanegment\\Hotelmanegment.csproj|solutionrelative:Hotelmanegment\\Hotelmanegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Hotelmanegment.csproj",
-              "DocumentMoniker": "C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\Hotelmanegment\\Hotelmanegment.csproj",
+              "DocumentMoniker": "C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\Hotelmanegment\\Hotelmanegment.csproj",
               "RelativeDocumentMoniker": "Hotelmanegment\\Hotelmanegment.csproj",
-              "ToolTip": "C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\Hotelmanegment\\Hotelmanegment.csproj",
+              "ToolTip": "C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\Hotelmanegment\\Hotelmanegment.csproj",
               "RelativeToolTip": "Hotelmanegment\\Hotelmanegment.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\Hotelmanegment\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\Hotelmanegment\\Program.cs",
               "RelativeDocumentMoniker": "Hotelmanegment\\Program.cs",
-              "ToolTip": "C:\\Users\\sudhakar\\OneDrive\\Desktop\\C#\\Hotelmanegment\\Hotelmanegment\\Program.cs",
+              "ToolTip": "C:\\Users\\sudhakar\\source\\repos\\sudhas1905\\Sample-Room-Booking-\\Hotelmanegment\\Program.cs",
               "RelativeToolTip": "Hotelmanegment\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwEUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T08:04:24.862Z",
               "EditorCaption": ""
